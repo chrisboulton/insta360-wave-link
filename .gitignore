@@ -1,0 +1,8 @@
+/work/
+/reverse/
+/extracted/
+/target/
+.DS_Store
+/macos/.build/
+/macos/build/
+/macos/.swiftpm/
